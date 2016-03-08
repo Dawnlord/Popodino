@@ -1,0 +1,176 @@
+@charset "utf-8";
+ 
+#divUMP
+{
+    width: 500px;
+    height: 650px;
+    background-color: #ede789;
+    margin: 0 auto;
+    position: relative;
+}
+#version
+{
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+#Left
+{
+    width: 100px;
+    height: 65px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #61e676;
+    color: #FFFFFF;
+}
+#Right
+{
+    width: 100px;
+    height: 65px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #61e676;
+    color: #FFFFFF;
+}
+#Shoot
+{
+    width: 250px;
+    height: 65px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #61e676;
+    color: #FFFFFF;
+}
+#UMode
+{
+    width: 500px;
+    height: 325px;
+    line-height: 325px;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    background-color: #61e676;
+    color: #FFFFFF;
+}
+#SMode
+{
+    width: 500px;
+    height: 325px;
+    line-height: 325px;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    background-color: #61e676;
+    color: #FFFFFF;
+}
+#intro
+{
+    width: 500px;
+    height: 325px;
+    line-height: 100px;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    background-color: #61e676;
+    color: #FFFFFF;
+}
+#start
+{
+    width: 500px;
+    height: 650px;
+    line-height: 650px;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    background: #61e676;
+    color: #FFFFFF;
+}
+#divUMP div.tile
+{
+    margin: 20px 0px 0px 20px;
+    width: 40px;
+    height: 5px;
+    padding: 20px 0;
+    font-size: 30px;
+    line-height: 5px;
+    text-align: center;
+    float: left;
+    border-radius: 100px/50px;
+}
+#divUMP div.tile0{
+    background: #ddd887;
+}
+#divUMP div.tile2
+{
+    color: #7c736a;
+    background: #ed9bad;
+}
+#divUMP div.tile4
+{
+    color: #7c736a;
+    background: #f0a3f1;
+}
+#divUMP div.tile8
+{
+    color: #fff7eb;
+    background: #acc0f7;
+}
+#divUMP div.tile16
+{
+    color:#fff7eb;
+    background:#9feeef;
+}
+#divUMP div.tile32
+{
+    color:#fff7eb;
+    background:#82f688;
+}
+#divUMP div.tile64
+{
+    color:#fff7eb;
+    background:#c6f682;
+}
+#divUMP div.tile128
+{
+    color:#fff7eb;
+    background:#f2f682;
+}
+#divUMP div.tile256
+{
+    color:#fff7eb;
+    background:#f6be82;
+}
+#divUMP div.tile512
+{
+    color:#fff7eb;
+    background:#f6a682;
+}
+#divUMP div.tile1024
+{
+    color:#fff7eb;
+    background:#e84848;
+}
+#divUMP div.tile2048
+{
+    color:#fff7eb;
+    background:#ffffff;
+}
+#divUMP div.tile666
+{
+    color:#fff7eb;
+    background:#ffffff;
+}
+#divUMP div.tile777
+{
+    color:#ff6c13;
+    background:#ff6c13;
+}
